@@ -50,7 +50,7 @@ $(function() {
     });
 });
 
-If you need to update the progress bar from a different domain or subdomain, liek if your upload server is different from your normal web server, you can try the JSON-P protocol, like this:
+If you need to update the progress bar from a different domain or subdomain, like if your upload server is different from your normal web server, you can try the JSON-P protocol, like this:
 $(function() {
     $('form').uploadProgress({
 		/* scripts locations for safari */
